@@ -8,9 +8,9 @@ This repository contains practical implementations of projects inspired by the [
 
 | **Project**                | **Status**       | **Description**                                                                 |  
 |----------------------------|------------------|---------------------------------------------------------------------------------|  
-| Server Performance Stats   | 🔲 Planned      | Monitor server performance metrics like CPU and memory usage.                   |  
+| Server Performance Stats   | ✅ Completed    | Monitor server performance metrics like CPU and memory usage.                   |  
 | Log Archive Tool           | 🔲 Planned      | Automate the archiving and cleanup of server logs.                              |  
-| Nginx Log Analyser         | 🔲 Planned    | Analyze Nginx logs to extract useful insights.                                  |  
+| Nginx Log Analyser         | 🔲 Planned      | Analyze Nginx logs to extract useful insights.                                  |  
 | GitHub Pages Deployment    | 🔲 Planned       | Deploy a static site to GitHub Pages.                                           |  
 | SSH Remote Server Setup    | 🔲 Planned       | Set up and secure remote access via SSH.                                       |  
 | Static Site Server         | 🔲 Planned       | Host a static website using a basic web server.                                 |  
@@ -32,16 +32,7 @@ This repository contains practical implementations of projects inspired by the [
 
 ---
 
-## 💻 **How to Use This Repository**  
-
-1. **Explore Projects**  
-   Each project is organized into its own folder directly under the repository.  
-
-2. **Follow Instructions**  
-   Inside each project folder, you will find:  
-   - `README.md`: Detailed instructions for the specific project
-
-3. **Track Progress**  
+**Track Progress**  
    - ✅ **Completed**: The project is fully implemented and functional.  
    - 🕗 **In Progress**: Development and testing are currently underway.  
    - 🔲 **Planned**: The project is on the roadmap but has not been started yet.  
