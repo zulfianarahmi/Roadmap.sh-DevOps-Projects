@@ -9,8 +9,8 @@ This repository contains practical implementations of projects inspired by the [
 | **Project**                | **Status**       | **Description**                                                                 |  
 |----------------------------|------------------|---------------------------------------------------------------------------------|  
 | Server Performance Stats   | ✅ Completed    | Monitor server performance metrics like CPU and memory usage.                   |  
-| Log Archive Tool           | 🔲 Planned      | Automate the archiving and cleanup of server logs.                              |  
-| Nginx Log Analyser         | 🔲 Planned      | Analyze Nginx logs to extract useful insights.                                  |  
+| Log Archive Tool           | ✅ Completed    | Automate the archiving and cleanup of server logs.                              |  
+| Nginx Log Analyser         | 🕗 In Progress  | Analyze Nginx logs to extract useful insights.                                  |  
 | GitHub Pages Deployment    | 🔲 Planned       | Deploy a static site to GitHub Pages.                                           |  
 | SSH Remote Server Setup    | 🔲 Planned       | Set up and secure remote access via SSH.                                       |  
 | Static Site Server         | 🔲 Planned       | Host a static website using a basic web server.                                 |  
